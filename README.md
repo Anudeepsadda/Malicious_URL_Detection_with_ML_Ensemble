@@ -17,8 +17,13 @@ Evaluation Metrics: Accuracy, Precision, Recall, F1 Score, AUC-ROC, Confusion Ma
 
 # Features
 ✔ URL Classification: Detects if a given URL is malicious or safe.
+
 ✔ Ensemble Learning: Uses multiple machine learning models for improved accuracy.
+
 ✔ Real-time Detection: Evaluates URLs dynamically for faster threat identification.
+
 ✔ Feature Engineering: Extracts domain-based and textual features such as length, special characters, WHOIS data, and more.
+
 ✔ Performance Metrics: Provides detailed accuracy reports, ROC curves, and confusion matrices.
+
 ✔ Visualization: Generates clear insights into model performance and feature importance.
